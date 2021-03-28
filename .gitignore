@@ -1,0 +1,9 @@
+# Project exclude paths
+/spring-boot-01-helloworld/target/
+/spring-boot-01-helloworld-quick/target/
+/spring-boot-02-config/target/
+/spring-boot-02-config-02/target/
+/spring-boot-02-config-autoconfig/target/
+/spring-boot-03-logging/target/
+/spring-boot-08-starter/atguigu-spring-boot-starter/target/
+/spring-boot-08-starter-test/target/
